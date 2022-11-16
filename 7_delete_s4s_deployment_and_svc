@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "kubectl delete service spring4shell"
+kubectl delete service spring4shell
+
+echo "kubectl delete deployment spring4shell"
+kubectl delete deployment spring4shell 
