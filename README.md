@@ -1,5 +1,5 @@
 # Spring4Shell Demo
-
+docker pull stanhoe/spring4shell:latest
 
 ## Credits
 - [@Rezn0k](https://twitter.com/rezn0k) 
